@@ -1,0 +1,117 @@
+[
+  {
+    "id": "liangxiang",
+    "name": "Liangxiang",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "beijingxi",
+    "name": "Beijingxi",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "beijingdong",
+    "name": "Beijingdong",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "tongzhou",
+    "name": "Tongzhou",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "qiaozhuangdong",
+    "name": "Qiaozhuangdong",
+    "lines": ["subcenter"]
+  },
+  {
+    "id": "tongzhouxi",
+    "name": "Tongzhouxi",
+    "lines": ["tongmi"]
+  },
+  {
+    "id": "shunyi",
+    "name": "Shunyi",
+    "lines": ["tongmi"]
+  },
+  {
+    "id": "niulanshan",
+    "name": "Niulanshan",
+    "lines": ["tongmi"]
+  },
+  {
+    "id": "huairou",
+    "name": "Huairou",
+    "lines": ["tongmi"]
+  },
+  {
+    "id": "yanqihu",
+    "name": "Yanqihu",
+    "lines": ["tongmi", "huaimi"]
+  },
+  {
+    "id": "huairoubei",
+    "name": "Huairoubei",
+    "lines": ["tongmi", "huaimi"]
+  },
+  {
+    "id": "miyunbei",
+    "name": "Miyunbei",
+    "lines": ["tongmi"]
+  },
+  {
+    "id": "qinghe",
+    "name": "Qinghe",
+    "lines": ["huaimi"]
+  },
+  {
+    "id": "changpingbei",
+    "name": "Changpingbei",
+    "lines": ["huaimi"]
+  },
+  {
+    "id": "heishansi",
+    "name": "Heishansi",
+    "lines": ["huaimi"]
+  },
+  {
+    "id": "gubeikou",
+    "name": "Gubeikou",
+    "lines": ["huaimi"]
+  },
+  {
+    "id": "huangtudian",
+    "name": "Huangtudian",
+    "lines": ["s2"]
+  },
+  {
+    "id": "nankou",
+    "name": "Nankou",
+    "lines": ["s2"]
+  },
+  {
+    "id": "badaling",
+    "name": "Badaling",
+    "lines": ["s2"]
+  },
+  {
+    "id": "kangzhuang",
+    "name": "Kangzhuang",
+    "lines": ["s2"]
+  },
+  {
+    "id": "shacheng",
+    "name": "Shacheng",
+    "lines": ["s2"]
+  },
+  {
+    "id": "yanqing",
+    "name": "Yanqing",
+    "lines": ["s2"]
+  }
+]
