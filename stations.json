@@ -91,6 +91,13 @@
     "lines": ["tongmi"]
   },
   {
+    "id": "beijingbei",
+    "name": "Beijingbei",
+    "latitude": 39.940977,
+    "longitude": 116.347967,
+    "lines": ["huaimi"]
+  },
+  {
     "id": "qinghe",
     "name": "Qinghe",
     "latitude": 40.041029,
