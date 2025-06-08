@@ -28,7 +28,7 @@
       "station_id": "shacheng",
       "arrival_time": "12:17",
       "departure_time": null
-    },
+    }
   ],
   "days_of_operation": [0,1,5,6]
 }
